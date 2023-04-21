@@ -1,0 +1,11 @@
+Model Information:
+* title:	🌏 Planet Earth
+* source:	https://sketchfab.com/3d-models/planet-earth-27db6f519be14199b22688fad09a4b43
+* author:	BlackProject (https://sketchfab.com/BlackProject)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "🌏 Planet Earth" (https://sketchfab.com/3d-models/planet-earth-27db6f519be14199b22688fad09a4b43) by BlackProject (https://sketchfab.com/BlackProject) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
